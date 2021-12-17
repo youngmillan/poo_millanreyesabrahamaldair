@@ -1,4 +1,4 @@
-public class sumanumeros {
+class sumanumeros {
     public static void main (String[] args){
         int i;
         int r=0;

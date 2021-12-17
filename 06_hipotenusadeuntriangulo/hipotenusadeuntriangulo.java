@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.lang.Math;//libreria para funciones matematicas
+import java.lang.Math;
 class calculahipotenusa{
     public static void main(String[] args){
         double co,ca,r;

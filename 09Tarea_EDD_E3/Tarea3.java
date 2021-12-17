@@ -17,12 +17,12 @@ public class Tarea3 {
         System.out.println("Ingrese cantidad de grados Centigrados");
         c = entrada.nextInt();
         f = c*9/5+32;
-        System.out.println("En grados Fahrenheit es:" + f);
-                //Conversion de °F a °K
-                System.out.println("Ingrese cantidad de grados Fahrenheit");
-                f = entrada.nextInt();
-                k = f-32/1.8000+273;
-                System.out.println("En grados kelvin es:" + k);
+    System.out.println("En grados Fahrenheit es:" + f);
+    //Conversion de °F a °K
+         System.out.println("Ingrese cantidad de grados Fahrenheit");
+        f = entrada.nextInt();
+        k = f (-32/1.8000+273);
+        System.out.println("En grados kelvin es:" + k);
        
 
     }
