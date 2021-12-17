@@ -1,10 +1,6 @@
-package Ejemplolibreria;
-/**
- *
- * @author Abraham Millan
- */
+package Libreria;
 import java.util.Scanner;
-
+//Abraham Aldair Millan Reyes
 public class Libro {
    
    int idLibro;

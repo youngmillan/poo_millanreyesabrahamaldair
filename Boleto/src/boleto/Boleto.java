@@ -1,5 +1,5 @@
 package boleto;
-//ABRAHAM ALDAIR MILLAN REYES
+
 import java.util.Scanner;
 
 public class Boleto {
@@ -143,3 +143,4 @@ public class Boleto {
         new Boleto().menu();
    }
 }
+
